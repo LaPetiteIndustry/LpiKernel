@@ -18,7 +18,7 @@
     "phpunit/phpunit": "4.8.*@dev"
   },
   "autoload": {
-    "psr-4": { "Lpi\\Kernel\\": "" }
+    "psr-4": { "Lpi\\Kernel\\": "src" }
   },
   "extra": {
     "branch-alias": {
